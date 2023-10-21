@@ -2,9 +2,9 @@ import random
 
 # This Stone-Paper-Scissor Game is made by Krishnan Navadia!
 
-print("==========================")
-print("Stone Paper Scissor GAME!!")
-print("==========================")
+print("===========================")
+print("Stone Paper Scissor GAME!!!")
+print("===========================")
 
 total_chance = 5
 your_chance = 0
